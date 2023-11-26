@@ -1,0 +1,3 @@
+Refrigeladora categoria1 Mabe 1 500.50 10
+Camiseta formal RM 2 25.75 20
+Mouse Gaming Asus 3 15.25 12

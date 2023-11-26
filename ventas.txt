@@ -1,0 +1,3 @@
+PepeElectronics vendedor1 2023-01-01 50.75 1 5
+Pablitoclavito vendedor2 2023-01-02 25.50 2 2
+LatiendadeJose vendedor3 2023-01-03 15.25 3 8

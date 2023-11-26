@@ -1,0 +1,3 @@
+Admin1 0
+Bogedero1 1
+Vendedor1 2
